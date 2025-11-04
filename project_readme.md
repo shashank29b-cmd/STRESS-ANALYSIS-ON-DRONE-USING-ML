@@ -508,15 +508,6 @@ in the Software without restriction...
 
 ---
 
-## 📧 Contact
-
-**Project Maintainer**: Your Name
-
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-
-**Project Link**: [https://github.com/yourusername/fast-ml-stress-predictor](https://github.com/yourusername/fast-ml-stress-predictor)
 
 ---
 
@@ -568,18 +559,3 @@ If you use this project in your research, please cite:
 
 ---
 
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star! ⭐
-
----
-
-<div align="center">
-
-**Made with ❤️ for the Engineering Community**
-
-[Report Bug](https://github.com/yourusername/fast-ml-stress-predictor/issues) · 
-[Request Feature](https://github.com/yourusername/fast-ml-stress-predictor/issues) · 
-[Documentation](https://github.com/yourusername/fast-ml-stress-predictor/wiki)
-
-</div>
